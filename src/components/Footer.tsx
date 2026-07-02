@@ -13,7 +13,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="mb-3">
               <span className="text-white font-semibold text-base block">
-                Performance Insurance Solutions LLC
+                JSR Insurance Services LLC
               </span>
             </div>
             <p className="text-slate-500 text-sm leading-relaxed max-w-sm">
@@ -71,7 +71,7 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-navy-800 flex flex-col sm:flex-row justify-between gap-3">
           <p className="text-slate-600 text-xs">
-            &copy; {new Date().getFullYear()} Performance Insurance Solutions LLC. All rights reserved.
+            &copy; {new Date().getFullYear()} JSR Insurance Services LLC. All rights reserved.
           </p>
           <p className="text-slate-700 text-xs">
             Licensed Independent Insurance Agency &bull; All 48 Contiguous States

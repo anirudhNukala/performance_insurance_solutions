@@ -8,9 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Performance Insurance Solutions LLC | Trucking Insurance & Surety Bonds",
+  title: "JSR Insurance Services LLC | Trucking Insurance & Surety Bonds",
   description:
-    "Performance Insurance Solutions LLC specializes in commercial trucking insurance and surety bonds. Get comprehensive coverage for your fleet and freight brokerage business. Licensed across the US.",
+    "JSR Insurance Services LLC specializes in commercial trucking insurance and surety bonds. Get comprehensive coverage for your fleet and freight brokerage business. Licensed across the US.",
   keywords: [
     "trucking insurance",
     "surety bonds",
@@ -20,10 +20,10 @@ export const metadata: Metadata = {
     "motor carrier insurance",
     "cargo insurance",
     "liability insurance trucking",
-    "Performance Insurance Solutions",
+    "JSR Insurance Services",
   ],
   openGraph: {
-    title: "Performance Insurance Solutions LLC",
+    title: "JSR Insurance Services LLC",
     description:
       "Your trusted partner for commercial trucking insurance and surety bonds.",
     type: "website",

@@ -35,7 +35,7 @@ export default function Navbar() {
           {/* Brand */}
           <button onClick={() => scrollTo("#home")} className="text-left">
             <span className="text-white font-semibold text-base leading-tight block">
-              Performance Insurance Solutions
+              JSR Insurance Services
             </span>
             <span className="text-gold-400 text-xs tracking-widest uppercase font-medium">
               LLC

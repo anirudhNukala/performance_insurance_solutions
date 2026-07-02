@@ -13,7 +13,7 @@ export default function AboutSection() {
           {/* Left: Text */}
           <div>
             <p className="text-slate-600 text-base leading-relaxed mb-5">
-              Performance Insurance Solutions LLC is an independent agency focused exclusively
+              JSR Insurance Services LLC is an independent agency focused exclusively
               on commercial transportation. We compare rates across multiple A-rated carriers
               to find coverage that fits your operation — not a one-size-fits-all policy.
             </p>

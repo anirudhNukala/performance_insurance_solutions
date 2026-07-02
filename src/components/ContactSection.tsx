@@ -129,7 +129,7 @@ export default function ContactSection() {
               Send us a message and a licensed agent will follow up within one business day.
             </p>
 
-            <div className="space-y-6">
+            {/* <div className="space-y-6">
               <div>
                 <p className="text-navy-900 font-semibold text-sm mb-1">Email</p>
                 <p className="text-slate-600 text-sm">info@performanceinsurancesolutions.com</p>
@@ -144,13 +144,13 @@ export default function ContactSection() {
                 <p className="text-navy-900 font-semibold text-sm mb-1">Coverage Area</p>
                 <p className="text-slate-600 text-sm">All 48 contiguous United States</p>
               </div>
-            </div>
+            </div> */}
 
-            <div className="mt-8 border-t border-slate-100 pt-8">
+            {/* <div className="mt-8 border-t border-slate-100 pt-8">
               <p className="text-slate-500 text-xs leading-relaxed">
                 Independent licensed insurance agency. Coverage subject to underwriting approval. Terms vary by carrier.
               </p>
-            </div>
+            </div> */}
           </div>
 
           {/* Right: form */}
